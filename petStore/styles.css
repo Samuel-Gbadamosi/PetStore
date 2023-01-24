@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header-t{
+    background-color: white;
+    height: 100px;
+}
+
+
+
+.header-t li{
+    color: #7AB72F;
+    font-size: 40px;
+    list-style: none;
+    
+}
+ 
+.btb{
+    border:1px solid grey;
+
+}
+
+.btb p{
+    color: grey;
+}
+
+.header-b{
+    background-color: white;
+    height: 100px;
+
+}
+
+.header-b h5{
+    color: black;
+    font-size: 55px;
+}
+
+
+.navi{
+    list-style: none;
+}
+
+.navi li{
+    font-size: 22px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: black;
+}
+
+.gbt{
+    background-color:#7AB82F ;
+}

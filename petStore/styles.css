@@ -82,14 +82,13 @@
 }
 .mybn button{
     color:white;
+    font-size: 18px;
     border: 2px solid white;
 }
 
 .mybn button:hover{
  background-color: white;
  color: black;
- font-weight: 400;
- text-transform: uppercase;
  border: 2px solid white;
 
 }
@@ -110,3 +109,48 @@
     font-size: 27px;
     color: white;
 }
+
+.sect1{
+    background-color:white;
+    height: 500px;
+}
+
+.rect{
+    height: 160px;
+    background-color: #FFFFFF;
+    border-left: 6px solid #7AB730!important;
+}
+.rect p{
+    font-size: 20px;
+    color: #7AB730!important;
+    font-weight: 700;
+}
+
+.rect h4{
+    font-size:40px;
+    font-weight: 700;
+    color: #212121;
+}
+
+.th{
+    font-size: 22px;
+    font-weight: 800;
+    color: #656565!important;
+}
+
+.mission{
+    background-color: #7AB730;
+    height: 35px;
+    color: white;
+}
+
+.mission p{
+    color: white;
+}
+
+.sect2{
+    height: 200px;
+    background-color: white;
+}
+
+

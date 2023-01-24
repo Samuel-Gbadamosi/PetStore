@@ -35,7 +35,7 @@
 
 .header-b h5{
     color: black;
-    font-size: 55px;
+    font-size: 46px;
 }
 
 
@@ -52,4 +52,44 @@
 
 .gbt{
     background-color:#7AB82F ;
+}
+
+.jumbotron{
+    height: 632px;
+    background-image: url('./doggo.jpeg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jumbotron h1{
+    font-size:80px;
+    font-weight: 700;
+    color: #212121!important;
+    text-transform: uppercase;
+}
+.jumbotron h4{
+    font-size:50px;
+    font-weight: 600;
+    color: white!important;
+    text-transform: uppercase;
+}
+
+.jumbotron p{
+    color: white;
+    font-size: 29px;
+    /* background-color:#c6c6c678; */
+    width: 71%;
+}
+.mybn button{
+    color:white;
+    border: 2px solid white;
+}
+
+.mybn button:hover{
+ background-color: white;
+ color: black;
+ font-weight: 600;
+ text-transform: uppercase;
+ border: 2px solid white;
+
 }

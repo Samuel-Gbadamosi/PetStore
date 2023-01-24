@@ -88,8 +88,25 @@
 .mybn button:hover{
  background-color: white;
  color: black;
- font-weight: 600;
+ font-weight: 400;
  text-transform: uppercase;
  border: 2px solid white;
 
+}
+
+.plybtn{
+    animation :pulse-border 1.5s ease-out infinite;
+    background: white;
+    transform:translateX(-50%) translateY(-50%);
+    font-size: 60px;
+    border-radius: 50px;
+}
+
+.min{
+    list-style: none;
+}
+.liv{
+    font-weight: 700;
+    font-size: 27px;
+    color: white;
 }

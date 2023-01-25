@@ -505,37 +505,38 @@
             </div>
 
         </section>
-        <div class=" row plus">
-            <div class="row">
-                <div class="col-3 text-center">
+        <div class=" container  plus mt-4">
+            <div class="row mt-3">
+                <div class="col-3 text-center ">
                     <img style="height:284px;" src="kitty.jpeg" alt="">
-                    <h4>Sarah Goblins</h4>
+                    <h4 class="pt-2">Sarah Goblins</h4>
                     <p>Designation</p>
 
                 </div>
                 <div class="col-3 text-center">
-                    <img style="height:284px;" src="kitty.jpeg" alt="">
-                    <h4>James Marray</h4>
+                    <img style="height:284px;" src="kity2.jpeg" alt="">
+                    <h4 class="pt-2">Cindy Marray</h4>
                     <p>Software Engineer</p>
 
 
                 </div>
                 <div class="col-3 text-center">
-                    <img style="height:284px;" src="kitty.jpeg" alt="">
-                    <h4>Jully Bryan</h4>
+                    <img style="height:284px;" src="kity3.jpeg" alt="">
+                    <h4 class="pt-2">Jully Bryan</h4>
                     <p>Software Analyst</p>
 
                 </div>
                 <div class="col-3 text-center">
                     <img style="height:284px;" src="kitty.jpeg" alt="">
-                    <h4>Johnson Alice</h4>
-                    <p>Designer</p>
+                    <h4 class="pt-2">Alice Wonderland</h4>
+                    <p>Clerk</p>
 
                 </div>
 
             </div>
 
         </div>
+
       
         
        
@@ -543,8 +544,17 @@
     </main>
     <!-- main ends here -->
     <!-- footer starrts here -->
-    <footer>
+    <footer class="container">
 
+
+    <div class="row">
+        <div class="mt-4 text-center">
+            <hr class="hr4">
+            <p class="muhu">Created by : Samuel Gbadamosi</p>
+
+        </div>
+
+    </div>
     </footer>
     <!-- footer ends here -->
 

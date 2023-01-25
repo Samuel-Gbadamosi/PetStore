@@ -194,11 +194,7 @@
                         <h4>OUR EXCELLENT PET CARE SERVICES</h4>
 
                     </div>
-                    <div class="col-4">
-
-                    </div>
-
-
+                   
                 </div>
 
             </div>

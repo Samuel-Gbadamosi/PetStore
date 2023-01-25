@@ -407,16 +407,98 @@
                    
 
                 </div>
-                <div class="col-4">
-                <div class="div22">
+                <div class="col-4 " style="position:relative; bottom:40px;">
+                <div class="div22 text-center pt-3">
+                        <h2>STANDARD</h2>
+                        <small>The Best Choice</small>
 
-                </div> 
+                        <div class="digit" style="color:white; background-color:black;">
+                        <p>$99.99  </p> 
+                        </div>
+                        <div class="row">
+                            <div class="col-6">
+                                <ul class="myl mj">
+                                    <li>HTML5 & CSS3</li>
+                                    <li>Bootstrap v5</li>
+                                    <li>Responsive Layout</li>
+                                    <li>Browsers Compatibility</li>
+                                </ul>
+
+                          
+
+                            </div>
+                            <div class="col-6">
+                                <ul class="myl ">
+                                    <li><i style="color:green;" class="fa-solid fa-check"></i> </li>
+                                    <li><i style="color:green;" class="fa-solid fa-check"></i> </li>
+                                    <li><i style="color:green;" class="fa-solid fa-check"></i> </li>
+                                    <li><i style="color:red;" class="fa-solid fa-xmark"></i> </li>
+
+                                </ul>
+                      
+
+                            </div>
+
+
+
+                        </div>
+                        <div class="row">
+                            <div class="col-12">
+
+                            <button style="background-color:#7AB82F; border:#7AB82F; width:126px; height:38px;" class="text-center btn btn-sm btn-success">ORDER NOW</button>
+
+                            </div>
+
+                        </div>
+
+                    </div> 
 
                 </div>
                 <div class="col-4">
-                <div class="div22">
+                <div class="div22 text-center pt-3">
+                        <h2>EXTENDED</h2>
+                        <small>The Best Choice</small>
 
-                 </div> 
+                        <div class="digit" style="color:white;">
+                        <p>$149.99  </p> 
+                        </div>
+                        <div class="row">
+                            <div class="col-6">
+                                <ul class="myl mj">
+                                    <li>HTML5 & CSS3</li>
+                                    <li>Bootstrap v5</li>
+                                    <li>Responsive Layout</li>
+                                    <li>Browsers Compatibility</li>
+                                </ul>
+
+                          
+
+                            </div>
+                            <div class="col-6">
+                                <ul class="myl ">
+                                    <li><i style="color:green;" class="fa-solid fa-check"></i> </li>
+                                    <li><i style="color:green;" class="fa-solid fa-check"></i> </li>
+                                    <li><i style="color:green;" class="fa-solid fa-check"></i> </li>
+                                    <li><i style="color:green;" class="fa-solid fa-check"></i> </li>
+
+                                </ul>
+                      
+
+                            </div>
+
+
+
+                        </div>
+                        <div class="row">
+                            <div class="col-12">
+
+                            <button style="background-color:#7AB82F; border:#7AB82F; width:126px; height:38px;" class="text-center btn btn-sm btn-success">ORDER NOW</button>
+
+                            </div>
+
+                        </div>
+
+                    </div> 
 
                 </div>
 

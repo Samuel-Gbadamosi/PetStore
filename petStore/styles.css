@@ -184,7 +184,7 @@ body {
 }
 
 .div22{
-    /* height: 422px; */
+     height: 422px; 
     width: 350px;
     background-color: #F3F3F3;
 }
@@ -224,6 +224,27 @@ body {
 }
 
 .plus{
-    height: 200px;
-    background-color: red;
+    /* height: 200px; */
+}
+
+footer{
+    height: 100px;
+}
+
+.hr4{
+    height: 20px;
+    position: relative;
+top: 20px;
+        border: none;
+        height: 4px;
+        background-color: #26e607;
+        margin-bottom: 50px;
+        color: #26e607;
+}
+
+.muhu{
+    font-size: 20px;
+font-family: monospace;
+    font-weight: 500;
+    color: #186600;
 }

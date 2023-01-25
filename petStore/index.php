@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -100,9 +99,6 @@
                 </div>
 
             </div>
-
-
-
         </div>
         <!-- header bottom -->
     </header>
@@ -139,7 +135,6 @@
 
         </div>
                 <!-- jumbotron setion -->
-
                 <!-- sect1 starts -->
         <section class="sect1 container mt-5">
             <div class="row">
@@ -519,26 +514,26 @@
                 <div class="col-3 text-center ">
                     <img style="height:284px;" src="kitty.jpeg" alt="">
                     <h4 class="pt-2">Sarah Goblins</h4>
-                    <p>Designation</p>
+                    <p style="font-weight:900; font-family:monospace;">Designation</p>
 
                 </div>
                 <div class="col-3 text-center">
                     <img style="height:284px;" src="kity2.jpeg" alt="">
                     <h4 class="pt-2">Cindy Marray</h4>
-                    <p>Software Engineer</p>
+                    <p style="font-weight:900; font-family:monospace;">Software Engineer</p>
 
 
                 </div>
                 <div class="col-3 text-center">
                     <img style="height:284px;" src="kity3.jpeg" alt="">
                     <h4 class="pt-2">Jully Bryan</h4>
-                    <p>Software Analyst</p>
+                    <p style="font-weight:900; font-family:monospace;">Software Analyst</p>
 
                 </div>
                 <div class="col-3 text-center">
                     <img style="height:284px;" src="kitty.jpeg" alt="">
                     <h4 class="pt-2">Alice Wonderland</h4>
-                    <p>Clerk</p>
+                    <p style="font-weight:900; font-family:monospace;">Clerk</p>
 
                 </div>
 

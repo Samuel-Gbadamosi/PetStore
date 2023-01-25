@@ -109,6 +109,7 @@
     <!-- header ends -->
     <!-- main starts -->
     <main>
+        <!-- jumbotron setion -->
         <div class="jumbotron">
             <div class="row ml-2">
                 <h1>PET SHOP</h1>
@@ -121,9 +122,6 @@
                 <div class="row col-6">
                     <div class="col-3 mybn">
                         <button type="button" class="btn-lg btn-outline-dark">READ MORE</button>
-
-
-
                     </div>
                     <div class="col-5">
                         <ul class="d-flex  min">
@@ -140,6 +138,9 @@
             </div>
 
         </div>
+                <!-- jumbotron setion -->
+
+                <!-- sect1 starts -->
         <section class="sect1 container mt-5">
             <div class="row">
                 <div class="col-6">
@@ -186,6 +187,8 @@
                 </div>
             </div>
         </section>
+                        <!-- sect1 ends -->
+<!-- sect 2 starts -->
         <section class="sect2 container mt-5">
             <div class="row ">
                 <div class="col-6  rector">
@@ -200,6 +203,9 @@
             </div>
 
         </section>
+        <!-- sect 2 ends -->
+<!-- sect 3 starts -->
+
         <section class="sect3 container">
             <!-- FIRST ROLL  -->
             <div class="row  mt-4">
@@ -350,8 +356,10 @@
 
 
         </section>
+        <!-- sect 3 ends -->
 
 
+<!-- sect45 starts ends -->
         <section class="sect45 container mt-5">
             <div class="row">
                 <div class="col-4">
@@ -503,6 +511,9 @@
             </div>
 
         </section>
+        <!-- sect45  ends -->
+
+        <!-- image of collegues in the company of pet store -->
         <div class=" container  plus mt-4">
             <div class="row mt-3">
                 <div class="col-3 text-center ">
@@ -534,12 +545,12 @@
             </div>
 
         </div>
+                <!-- image of collegues in the company of pet store -->
     </main>
     <!-- main ends here -->
-    <!-- footer starrts here -->
+    <!-- footer starts here -->
     <footer class="container">
-
-
+<!-- hr role to description of maker -->
         <div class="row">
             <div class="mt-4 text-center">
                 <hr class="hr4">
@@ -548,6 +559,8 @@
             </div>
 
         </div>
+        <!-- hr role to description of maker  -->
+
     </footer>
     <!-- footer ends here -->
 

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -20,6 +21,7 @@
         integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
+
 <body>
     <!-- header starts -->
     <header class="container-fluid">
@@ -29,13 +31,13 @@
                 <div class="row ">
                     <div class="col-2 offset-2 pt-2">
                         <li><i class="fa-solid fa-location-dot ml-4"></i></li>
-                        
+
                     </div>
                     <div class="col-6 pt-3 ">
                         <h5>OUR OFFICE</h5>
                         <p>123 street, New York, USA</p>
                     </div>
-                 
+
                 </div>
 
             </div>
@@ -43,13 +45,13 @@
                 <div class="row">
                     <div class="col-2 offset-2 pt-2">
                         <li><i class="fa-regular fa-envelope ml-4"></i></li>
-                        
+
                     </div>
                     <div class="col-6 pt-3">
                         <h5>EMAIL US</h5>
                         <p>mail@domain.com</p>
                     </div>
-                 
+
                 </div>
 
             </div>
@@ -57,49 +59,49 @@
                 <div class="row">
                     <div class="col-2 offset-2 pt-2">
                         <li><i class="fa-solid fa-phone ml-4"></i></li>
-                        
+
                     </div>
                     <div class="col-6 pt-3">
                         <h5>CALL US</h5>
                         <p>+012 345 6798</p>
                     </div>
-                 
+
                 </div>
 
             </div>
 
         </div>
         <!-- heder top -->
-<!-- header bottom -->
+        <!-- header bottom -->
         <div class=" row header-b">
-          <div class="col-6 d-flex navi mt-3 ">
-              <li style="font-size: 28px;"><i class="fa-solid fa-house mr-3"></i></li>
-              <h5>PET STORE</h5>
+            <div class="col-6 d-flex navi mt-3 ">
+                <li style="font-size: 28px;"><i class="fa-solid fa-house mr-3"></i></li>
+                <h5>PET STORE</h5>
 
-          </div>
-          <div class="col-6">
-              <div class="row ">
-                  <div class="col-10 ">
-                      <ul class="d-flex justify-content-around navi mt-4">
-                          <li>Home</li>
-                          <li>About</li>
-                          <li>Service</li>
-                          <li>Product</li>
-                          <li>Pages</li>
-                      </ul>
+            </div>
+            <div class="col-6">
+                <div class="row ">
+                    <div class="col-10 ">
+                        <ul class="d-flex justify-content-around navi mt-4">
+                            <li>Home</li>
+                            <li>About</li>
+                            <li>Service</li>
+                            <li>Product</li>
+                            <li>Pages</li>
+                        </ul>
 
-                  </div>
-                  <div class="col-2 navi pt-4 gbt">
+                    </div>
+                    <div class="col-2 navi pt-4 gbt">
 
-                    <li class="gbt">Contact</li>
+                        <li class="gbt">Contact</li>
 
-                 </div>
+                    </div>
 
-              </div>
+                </div>
 
-        </div>
-          
-           
+            </div>
+
+
 
         </div>
         <!-- header bottom -->
@@ -113,23 +115,24 @@
 
                 <h4>MAKE YOUR PETS HAPPY</h4>
 
-                <p>Dolore tempor clita lorem rebum kasd eirmod dolore diam eos kasd. Kasd clita ea justo est sed kasd erat clita sea</p>
+                <p>Dolore tempor clita lorem rebum kasd eirmod dolore diam eos kasd. Kasd clita ea justo est sed kasd
+                    erat clita sea</p>
 
                 <div class="row col-6">
                     <div class="col-3 mybn">
                         <button type="button" class="btn-lg btn-outline-dark">READ MORE</button>
 
-                        
+
 
                     </div>
                     <div class="col-5">
                         <ul class="d-flex  min">
                             <li><i class="mt-4 fa-sharp fa-solid fa-circle-play plybtn"></i>
-                              </li>
+                            </li>
                             <li class="liv mr-3">Play Video</li>
-        
-                          </ul>
-                        
+
+                        </ul>
+
 
                     </div>
 
@@ -157,13 +160,14 @@
                     </div>
                     <div class="row ">
                         <div class="col-12 mt-4">
-                            <p class="th">Diam dolor diam ipsum tempor sit. Clita erat ipsum et lorem stet no labore lorem sit clita duo justo magna dolore</p>
+                            <p class="th">Diam dolor diam ipsum tempor sit. Clita erat ipsum et lorem stet no labore
+                                lorem sit clita duo justo magna dolore</p>
 
                         </div>
 
                     </div>
                     <div class="row" style="background-color: #F3F3F3!important;">
-                        <div class="col-4 offset-2 mission mt-4 pt-1 text-center" >
+                        <div class="col-4 offset-2 mission mt-4 pt-1 text-center">
                             <p class="">OUR MISSION</p>
                         </div>
                         <div class="col-3 mt-4 pt-1 ml-5 text-center">
@@ -171,7 +175,11 @@
                             <p style="color: #7AB730;">OUR VISSION</p>
                         </div>
                         <div class="col-12">
-                            <p>Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos sadipscing labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor consetetur takimata eirmod, dolores takimata consetetur invidunt magna dolores aliquyam dolores dolore. Amet erat amet et magna</p>
+                            <p>Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor diam ipsum et,
+                                tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos sadipscing labore.
+                                Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo
+                                et tempor consetetur takimata eirmod, dolores takimata consetetur invidunt magna dolores
+                                aliquyam dolores dolore. Amet erat amet et magna</p>
 
                         </div>
 
@@ -206,125 +214,126 @@
             <div class="row  mt-4">
                 <div class="offset-1 col-5 pt-4  ft d-flex">
                     <div style="list-style: none; ">
-                        <li><i class="fa-solid fa-house ict mt-3 mr-3" ></i></li>
-    
-                     </div>
+                        <li><i class="fa-solid fa-house ict mt-3 mr-3"></i></li>
+
+                    </div>
                     <div>
                         <h2 style="font-size: 18px; font-weight: 700;">PET BOARDING</h2>
-    
-                        <p style="color: #656565;">Kasd dolor no lorem sit tempor at justo rebum rebum stet justo elitr dolor amet sit</p>
-    
+
+                        <p style="color: #656565;">Kasd dolor no lorem sit tempor at justo rebum rebum stet justo elitr
+                            dolor amet sit</p>
+
                         <ul class="d-flex " style="list-style: none;">
                             <li class="gbb">Read more</li>
                             <li><i class="fa-solid fa-arrow-right ml-2 gbb"></i></li>
                         </ul>
-    
+
                     </div>
-    
+
                 </div>
                 <div class="col-5 ml-4 pt-4 ft d-flex">
                     <div style="list-style: none; ">
 
-                        <li><i class="fa-solid fa-fish ict mt-3 mr-3" ></i></li>
-    
-                     </div>
+                        <li><i class="fa-solid fa-fish ict mt-3 mr-3"></i></li>
+
+                    </div>
                     <div>
                         <h2 style="font-size: 18px; font-weight: 700;">PET FEEDING</h2>
-    
+
                         <p>Kasd dolor no lorem sit tempor at justo rebum rebum stet justo elitr dolor amet sit</p>
-    
+
                         <ul class="d-flex " style="list-style: none;">
                             <li class="gbb">Read more</li>
                             <li><i class="fa-solid fa-arrow-right ml-2 gbb"></i></li>
                         </ul>
-    
+
                     </div>
-    
+
                 </div>
 
 
             </div>
-                        <!-- FIRST ROLL  -->
-             <!-- SECOND ROLL -->
+            <!-- FIRST ROLL  -->
+            <!-- SECOND ROLL -->
             <div class="row mt-5 ">
                 <div class="offset-1 col-5 pt-4  ft d-flex">
                     <div style="list-style: none; ">
-                        <li><i class="fa-solid fa-dumbbell ict mt-3 mr-3" ></i></li>
-    
-                     </div>
+                        <li><i class="fa-solid fa-dumbbell ict mt-3 mr-3"></i></li>
+
+                    </div>
                     <div>
                         <h2 style="font-size: 18px; font-weight: 700;">PET EXERCISE</h2>
-    
-                        <p style="color: #656565;">Kasd dolor no lorem sit tempor at justo rebum rebum stet justo elitr dolor amet sit</p>
-    
+
+                        <p style="color: #656565;">Kasd dolor no lorem sit tempor at justo rebum rebum stet justo elitr
+                            dolor amet sit</p>
+
                         <ul class="d-flex " style="list-style: none;">
                             <li class="gbb">Read more</li>
                             <li><i class="fa-solid fa-arrow-right ml-2 gbb"></i></li>
                         </ul>
-    
+
                     </div>
-    
+
                 </div>
                 <div class="col-5 ml-4 pt-4 ft d-flex">
                     <div style="list-style: none; ">
-                        <li><i class="fa-solid fa-shield-dog ict mt-3 mr-3" ></i></li>
-    
-                     </div>
+                        <li><i class="fa-solid fa-shield-dog ict mt-3 mr-3"></i></li>
+
+                    </div>
                     <div>
                         <h2 style="font-size: 18px; font-weight: 700;">PET GROOMING</h2>
-    
+
                         <p>Kasd dolor no lorem sit tempor at justo rebum rebum stet justo elitr dolor amet sit</p>
-    
+
                         <ul class="d-flex " style="list-style: none;">
                             <li class="gbb">Read more</li>
                             <li><i class="fa-solid fa-arrow-right ml-2 gbb"></i></li>
                         </ul>
-    
+
                     </div>
-    
+
                 </div>
-
-
             </div>
             <!-- SECOND ROLL -->
             <!-- THIRD ROLL -->
             <div class="row mt-5 ">
                 <div class="offset-1 col-5 pt-4  ft d-flex">
                     <div style="list-style: none; ">
-                        
-                        <li><i class="fa-solid fa-user ict mt-3 mr-3" ></i></li>
-    
-                     </div>
+
+                        <li><i class="fa-solid fa-user ict mt-3 mr-3"></i></li>
+
+                    </div>
                     <div>
                         <h2 style="font-size: 18px; font-weight: 700;">PET TRAINING</h2>
-    
-                        <p style="color: #656565;">Kasd dolor no lorem sit tempor at justo rebum rebum stet justo elitr dolor amet sit</p>
-    
+
+                        <p style="color: #656565;">Kasd dolor no lorem sit tempor at justo rebum rebum stet justo elitr
+                            dolor amet sit</p>
+
                         <ul class="d-flex " style="list-style: none;">
                             <li class="gbb">Read more</li>
                             <li><i class="fa-solid fa-arrow-right ml-2 gbb"></i></li>
                         </ul>
-    
+
                     </div>
-    
+
                 </div>
                 <div class="col-5 ml-4 pt-4 ft d-flex">
                     <div style="list-style: none; ">
-                        <li><i class="fa-solid fa-suitcase-medical ict mt-3 mr-3" ></i></li>
-    
-                     </div>
+                        <li><i class="fa-solid fa-suitcase-medical ict mt-3 mr-3"></i></li>
+
+                    </div>
                     <div>
                         <h2 style="font-size: 18px; font-weight: 700;">PET TREATMENT</h2>
-    
+
                         <p>Kasd dolor no lorem sit tempor at justo rebum rebum stet justo elitr dolor amet sit</p>
-    
+
                         <ul class="d-flex " style="list-style: none;">
                             <li class="gbb">Read more</li>
                             <li><i class="fa-solid fa-arrow-right ml-2 gbb"></i></li>
                         </ul>
-    
+
                     </div>
-    
+
                 </div>
 
 
@@ -337,35 +346,35 @@
                         <div class="rect pl-5 ">
                             <p>PRICING PLAN</p>
                             <h4>COMPETITIVE PRICING FOR PET SERVICES</h4>
-    
+
                         </div>
                         <div class="col-4">
-    
-                        </div>
-    
-    
-                    </div>
-    
-                </div>
-    
-            </section>
-                        <!-- sect2 reduplicated -->
 
-          
-          
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+            </section>
+            <!-- sect2 reduplicated -->
+
+
+
 
         </section>
-       
+
 
         <section class="sect45 container mt-5">
             <div class="row">
-                <div class="col-4"> 
+                <div class="col-4">
                     <div class="div22 text-center pt-3">
                         <h2>BASIC</h2>
                         <small>The Best Choice</small>
 
                         <div class="digit" style="color:white;">
-                        <p>$49.99  </p> 
+                            <p>$49.99 </p>
                         </div>
                         <div class="row">
                             <div class="col-6">
@@ -376,7 +385,7 @@
                                     <li>Browsers Compatibility</li>
                                 </ul>
 
-                          
+
 
                             </div>
                             <div class="col-6">
@@ -387,7 +396,7 @@
                                     <li><i style="color:red;" class="fa-solid fa-xmark"></i> </li>
 
                                 </ul>
-                      
+
 
                             </div>
 
@@ -397,23 +406,24 @@
                         <div class="row">
                             <div class="col-12">
 
-                            <button style="background-color:#7AB82F; border:#7AB82F; width:126px; height:38px;" class="text-center btn btn-sm btn-success">ORDER NOW</button>
+                                <button style="background-color:#7AB82F; border:#7AB82F; width:126px; height:38px;"
+                                    class="text-center btn btn-sm btn-success">ORDER NOW</button>
 
                             </div>
 
                         </div>
 
-                    </div> 
-                   
+                    </div>
+
 
                 </div>
                 <div class="col-4 " style="position:relative; bottom:40px;">
-                <div class="div22 text-center pt-3">
+                    <div class="div22 text-center pt-3">
                         <h2>STANDARD</h2>
                         <small>The Best Choice</small>
 
                         <div class="digit" style="color:white; background-color:black;">
-                        <p>$99.99  </p> 
+                            <p>$99.99 </p>
                         </div>
                         <div class="row">
                             <div class="col-6">
@@ -424,7 +434,7 @@
                                     <li>Browsers Compatibility</li>
                                 </ul>
 
-                          
+
 
                             </div>
                             <div class="col-6">
@@ -435,7 +445,7 @@
                                     <li><i style="color:red;" class="fa-solid fa-xmark"></i> </li>
 
                                 </ul>
-                      
+
 
                             </div>
 
@@ -445,22 +455,23 @@
                         <div class="row">
                             <div class="col-12">
 
-                            <button style="background-color:#7AB82F; border:#7AB82F; width:126px; height:38px;" class="text-center btn btn-sm btn-success">ORDER NOW</button>
+                                <button style="background-color:#7AB82F; border:#7AB82F; width:126px; height:38px;"
+                                    class="text-center btn btn-sm btn-success">ORDER NOW</button>
 
                             </div>
 
                         </div>
 
-                    </div> 
+                    </div>
 
                 </div>
                 <div class="col-4">
-                <div class="div22 text-center pt-3">
+                    <div class="div22 text-center pt-3">
                         <h2>EXTENDED</h2>
                         <small>The Best Choice</small>
 
                         <div class="digit" style="color:white;">
-                        <p>$149.99  </p> 
+                            <p>$149.99 </p>
                         </div>
                         <div class="row">
                             <div class="col-6">
@@ -471,7 +482,7 @@
                                     <li>Browsers Compatibility</li>
                                 </ul>
 
-                          
+
 
                             </div>
                             <div class="col-6">
@@ -482,7 +493,7 @@
                                     <li><i style="color:green;" class="fa-solid fa-check"></i> </li>
 
                                 </ul>
-                      
+
 
                             </div>
 
@@ -492,13 +503,14 @@
                         <div class="row">
                             <div class="col-12">
 
-                            <button style="background-color:#7AB82F; border:#7AB82F; width:126px; height:38px;" class="text-center btn btn-sm btn-success">ORDER NOW</button>
+                                <button style="background-color:#7AB82F; border:#7AB82F; width:126px; height:38px;"
+                                    class="text-center btn btn-sm btn-success">ORDER NOW</button>
 
                             </div>
 
                         </div>
 
-                    </div> 
+                    </div>
 
                 </div>
 
@@ -536,29 +548,25 @@
             </div>
 
         </div>
-
-      
-        
-       
-
     </main>
     <!-- main ends here -->
     <!-- footer starrts here -->
     <footer class="container">
 
 
-    <div class="row">
-        <div class="mt-4 text-center">
-            <hr class="hr4">
-            <p class="muhu">Created by : Samuel Gbadamosi</p>
+        <div class="row">
+            <div class="mt-4 text-center">
+                <hr class="hr4">
+                <p class="muhu">Created by : Samuel Gbadamosi</p>
+
+            </div>
 
         </div>
-
-    </div>
     </footer>
     <!-- footer ends here -->
 
 
-    
+
 </body>
+
 </html>

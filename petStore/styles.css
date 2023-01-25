@@ -220,3 +220,7 @@ body {
     font-size: 12px;
     line-height: 4;
 }
+
+.mj li{
+    float: left;
+}

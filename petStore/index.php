@@ -369,7 +369,7 @@
                         </div>
                         <div class="row">
                             <div class="col-6">
-                                <ul class="myl">
+                                <ul class="myl mj">
                                     <li>HTML5 & CSS3</li>
                                     <li>Bootstrap v5</li>
                                     <li>Responsive Layout</li>
@@ -380,11 +380,14 @@
 
                             </div>
                             <div class="col-6">
-                            <p>test</p>
-                            <p>test</p>
-                            <p>test</p>
-                            <p>test</p>
+                                <ul class="myl ">
+                                    <li><i style="color:green;" class="fa-solid fa-check"></i> </li>
+                                    <li><i style="color:green;" class="fa-solid fa-check"></i> </li>
+                                    <li><i style="color:red;" class="fa-solid fa-xmark"></i> </li>
+                                    <li><i style="color:red;" class="fa-solid fa-xmark"></i> </li>
 
+                                </ul>
+                      
 
                             </div>
 
@@ -394,7 +397,7 @@
                         <div class="row">
                             <div class="col-12">
 
-                            <button class="text-center btn btn-sm btn-primary">ORDER NOW</button>
+                            <button style="background-color:#7AB82F; border:#7AB82F; width:126px; height:38px;" class="text-center btn btn-sm btn-success">ORDER NOW</button>
 
                             </div>
 

@@ -182,14 +182,9 @@
                                 aliquyam dolores dolore. Amet erat amet et magna</p>
 
                         </div>
-
-
                     </div>
-
                 </div>
-
             </div>
-
         </section>
         <section class="sect2 container mt-5">
             <div class="row ">
@@ -215,7 +210,6 @@
                 <div class="offset-1 col-5 pt-4  ft d-flex">
                     <div style="list-style: none; ">
                         <li><i class="fa-solid fa-house ict mt-3 mr-3"></i></li>
-
                     </div>
                     <div>
                         <h2 style="font-size: 18px; font-weight: 700;">PET BOARDING</h2>
@@ -250,8 +244,6 @@
                     </div>
 
                 </div>
-
-
             </div>
             <!-- FIRST ROLL  -->
             <!-- SECOND ROLL -->
@@ -278,7 +270,6 @@
                 <div class="col-5 ml-4 pt-4 ft d-flex">
                     <div style="list-style: none; ">
                         <li><i class="fa-solid fa-shield-dog ict mt-3 mr-3"></i></li>
-
                     </div>
                     <div>
                         <h2 style="font-size: 18px; font-weight: 700;">PET GROOMING</h2>
@@ -291,7 +282,6 @@
                         </ul>
 
                     </div>
-
                 </div>
             </div>
             <!-- SECOND ROLL -->

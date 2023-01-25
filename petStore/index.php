@@ -505,6 +505,37 @@
             </div>
 
         </section>
+        <div class=" row plus">
+            <div class="row">
+                <div class="col-3 text-center">
+                    <img style="height:284px;" src="kitty.jpeg" alt="">
+                    <h4>Sarah Goblins</h4>
+                    <p>Designation</p>
+
+                </div>
+                <div class="col-3 text-center">
+                    <img style="height:284px;" src="kitty.jpeg" alt="">
+                    <h4>James Marray</h4>
+                    <p>Software Engineer</p>
+
+
+                </div>
+                <div class="col-3 text-center">
+                    <img style="height:284px;" src="kitty.jpeg" alt="">
+                    <h4>Jully Bryan</h4>
+                    <p>Software Analyst</p>
+
+                </div>
+                <div class="col-3 text-center">
+                    <img style="height:284px;" src="kitty.jpeg" alt="">
+                    <h4>Johnson Alice</h4>
+                    <p>Designer</p>
+
+                </div>
+
+            </div>
+
+        </div>
       
         
        

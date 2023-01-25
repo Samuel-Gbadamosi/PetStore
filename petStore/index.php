@@ -203,7 +203,7 @@
         </section>
         <section class="sect3 container">
             <!-- FIRST ROLL  -->
-            <div class="row ">
+            <div class="row  mt-4">
                 <div class="offset-1 col-5 pt-4  ft d-flex">
                     <div style="list-style: none; ">
                         <li><i class="fa-solid fa-house ict mt-3 mr-3" ></i></li>
@@ -335,8 +335,8 @@
                 <div class="row ">
                     <div class="col-6  rector">
                         <div class="rect pl-5 ">
-                            <p>PRODUCTS</p>
-                            <h4>PRODUCTS FOR YOUR BEST FRIENDS</h4>
+                            <p>PRICING PLAN</p>
+                            <h4>COMPETITIVE PRICING FOR PET SERVICES</h4>
     
                         </div>
                         <div class="col-4">
@@ -355,6 +355,72 @@
           
 
         </section>
+       
+
+        <section class="sect45 container mt-5">
+            <div class="row">
+                <div class="col-4"> 
+                    <div class="div22 text-center pt-3">
+                        <h2>BASIC</h2>
+                        <small>The Best Choice</small>
+
+                        <div class="digit" style="color:white;">
+                        <p>$49.99  </p> 
+                        </div>
+                        <div class="row">
+                            <div class="col-6">
+                                <ul class="myl">
+                                    <li>HTML5 & CSS3</li>
+                                    <li>Bootstrap v5</li>
+                                    <li>Responsive Layout</li>
+                                    <li>Browsers Compatibility</li>
+                                </ul>
+
+                          
+
+                            </div>
+                            <div class="col-6">
+                            <p>test</p>
+                            <p>test</p>
+                            <p>test</p>
+                            <p>test</p>
+
+
+                            </div>
+
+
+
+                        </div>
+                        <div class="row">
+                            <div class="col-12">
+
+                            <button class="text-center btn btn-sm btn-primary">ORDER NOW</button>
+
+                            </div>
+
+                        </div>
+
+                    </div> 
+                   
+
+                </div>
+                <div class="col-4">
+                <div class="div22">
+
+                </div> 
+
+                </div>
+                <div class="col-4">
+                <div class="div22">
+
+                 </div> 
+
+                </div>
+
+            </div>
+
+        </section>
+      
         
        
 

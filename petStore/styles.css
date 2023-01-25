@@ -112,7 +112,7 @@
 
 .sect1{
     background-color:white;
-    height: 500px;
+    /* height: 500px; */
 }
 
 .rect{
@@ -149,13 +149,13 @@
 }
 
 .sect2{
-    height: 200px;
+    /* height: 200px; */
     background-color: white;
 }
 
 
 .sect3{
-    height: 200px;
+    /* height: 200px; */
     background-color: white;
 }
 
@@ -171,4 +171,52 @@
 .gbb{
     color: #7AB730;
     margin-left: -30px;
+}
+
+html {
+    height: 100%;
+}
+body {
+    min-height: 100%;
+}
+
+.sect45{
+    height: 100px;
+    line-height: 2.1;
+}
+
+.div22{
+    height: 400px;
+    width: 350px;
+    background-color: #F3F3F3;
+}
+
+.digit{
+    background-color:#7AB82F;
+    height: 70px;
+}
+
+
+
+.div22 h2{
+    font-size: 25px;
+    font-weight: 700;
+
+}
+
+.div22 small{
+    color: #656565!important;
+    font-weight: 600;
+}
+
+.digit p{
+    font-size: 35px;
+}
+
+.myl{
+    list-style: none;
+}
+.myl li{
+    font-size: 12px;
+    line-height: 4;
 }

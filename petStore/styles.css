@@ -55,7 +55,7 @@
 }
 
 .jumbotron{
-    /* height: 632px; */
+     height: 632px;
     background-image: url('./doggo.jpeg');
     background-position: top;
     background-repeat: no-repeat;
